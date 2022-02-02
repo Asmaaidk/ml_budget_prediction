@@ -35,8 +35,19 @@ After handling the missing data, scaling and encoding our train and test data we
 #### Regression
 Regression predict the actual predicted budget and the following models were implemented: Linear Regression, Decision Tree Regressor, Random Forest Regressor, SVR, and XGB regressor.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18037696/152118351-eb5e770d-e3a3-4680-9cb2-da025e18cfec.png">
+</p>
+
+
 #### Classification
 Classification predict the range of the budget: High, Medium or Low and the following models were implemented: Decision Tree Classifier, Random Forest Classifier, SVC, and XGB Classifier.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18037696/152118347-8a818345-030c-4a81-a41b-6b6fe9500e9b.png">
+</p>
+
+
 
 ---
 ### ✔️ Results
