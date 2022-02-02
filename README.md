@@ -23,6 +23,9 @@ The dataset was <b>translated</b>, <b>cleand</b>, <b>unified</b> and <b>analyzed
 
 #### 📈 The Dashboard
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18037696/152113606-118bebd2-3d3d-45ca-941e-f01f441c6ec4.jpg">
+</p>
 
 
 ---
